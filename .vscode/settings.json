@@ -1,0 +1,8 @@
+{
+    "includePath": [
+        "/home/jsmith/apps/pyci/third_party/eigen",
+        "/home/jsmith/apps/pyci/third_party/",
+        "/home/jsmith/miniconda3/envs/omp_mpi/include/python3.7m/",
+    ],
+    "python.pythonPath": "/home/jsmith/miniconda3/envs/omp_mpi/bin/python"
+}
